@@ -10,6 +10,7 @@ PHP ve Veritabanı kullanarak, admin paneli olan ürünlerimizi satabildiğimiz 
 - Sepet sistemi olmalı
 - Üye girişi ile satış yapılmalı
 - Ürünlerde stok sistemi olmalı
+- Şifremi unuttum sayfası olmalı ve e-posta ile şifre sıfırlanabilmeli.
 
 ### Admin Panel Gereksinimleri
 
